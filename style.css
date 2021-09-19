@@ -8,10 +8,10 @@ body {
 .maindiv{
     background-color: white;
     color: black;
-    width: 300px;
+    width: 500px;
     padding: 20px;
     border-radius:25px;
-    margin: 0 auto;
+    margin: 0 auto 10px auto;
 }
 
 h1{
@@ -19,3 +19,19 @@ h1{
     font-family: verdana;
     text-align: center;
 }
+
+footer{
+    padding-top: 10px;
+    font-size: small;
+    font-weight: bold;
+}
+
+button{
+    margin-top: 10px;
+    width: 120px;
+    padding: 5px;
+    border-radius: 5px;
+    border: solid 1px darkgrey;
+
+}
+
